@@ -54,3 +54,4 @@ Fundamentals/*.csv
 Price\ data/*.csv
 *.json
 /pyfinviz/
+/Plan/

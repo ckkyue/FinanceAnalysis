@@ -1,0 +1,1 @@
+I will mainly talk to you via this Markdown file. When I enter 'read', 'rd', 'r', or a similar command, please read it. After completing your tasks and replying me in chat, clean up this interface. DO NOT DELETE THIS TOP LINE. Continue the whole chat in traditional Chinese.
